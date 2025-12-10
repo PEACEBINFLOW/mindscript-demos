@@ -1,0 +1,7 @@
+cd mindscript-runtime
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt  # once added
+
+cd ../mindscript-search
+pip install -r requirements.txt  # once added

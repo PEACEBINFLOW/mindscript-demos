@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.cache
+__pycache__/
+*.pyc
+.env
+.venv/
+.ipynb_checkpoints/
+screenshots/

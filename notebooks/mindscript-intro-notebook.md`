@@ -1,0 +1,8 @@
+# 4.1-mindscript-intro-notebook.md
+
+Notebook plan:
+- Cell 1: What is MindScript? (text)
+- Cell 2: Show a simple `.ms` file
+- Cell 3: Call Runtime programmatically
+- Cell 4: Show result
+- Cell 5: Show how to modify a stage and rerun

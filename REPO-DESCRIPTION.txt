@@ -1,0 +1,9 @@
+mindscript-demos is the showcase repository for the MindScript ecosystem.
+
+It contains:
+- CLI demos using mindscript-runtime
+- end-to-end flows that write to mindscript-ledger
+- search examples powered by mindscript-search
+- integration demos with OpenAI, Gemini, and local models
+
+This is where people see MindScript in action, not just in theory.

@@ -1,0 +1,8 @@
+# 2.3-demo-checklist.md
+
+Before running any demo, verify:
+
+- [ ] `mindscript-runtime` runs a simple `.ms.md` file
+- [ ] `mindscript-ledger` is accessible (ledger path known)
+- [ ] `mindscript-search` can start and perform a basic search
+- [ ] config paths in each demo match your local setup
